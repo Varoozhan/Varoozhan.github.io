@@ -50,8 +50,7 @@ header.startup h1 {
 .btn-primary {
   background-color: #F05F44;
   border-color: #F05F44; 
-  alignment-baseline: center;
-  align-content: center;
+
 }
 
 .btn-primary:hover {
@@ -59,5 +58,10 @@ header.startup h1 {
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
+  alignment-baseline: center;
+  align-content: center;
+  align-self: center;
+  align-items: center;
+  
 }
   
