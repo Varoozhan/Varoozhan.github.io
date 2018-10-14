@@ -44,11 +44,7 @@ header.startup h1 {
 }
 
 .btn-xl {
-  padding: 1rem 2rem; 
-      alignment-baseline: center;
-  align-content: center;
-  align-self: center;
-  align-items: center;
+  padding: 5rem 2rem; 
 }
 
 .btn-primary {
